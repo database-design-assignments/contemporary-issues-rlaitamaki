@@ -1,4 +1,3 @@
-```markdown
 # Contemporary Issues In Data: California Proposition 24
 In this document, I analyze two conflicting articles exploring whether or not California's New Data Legislation Proposition 24 is beneficial for consumers. Proposition 24 was passed in November 2020, but there was controversy about the Proposition  leading up to the vote.
 ## Article 1
@@ -10,7 +9,7 @@ Although this article is biased towards Proposition 24 and it comes from a site 
 In Law Under Locks [Say No To Prop 24, A Privacy Law We Do Not Need](https://johnalecs.wordpress.com/2020/09/30/say-no-to-prop-24-a-privacy-law-we-do-not-need/), the author John Stauros argues against Proposition 24. Stauros believes that Proposition 24 places too much of the burden on the consumer to protect their own data. Further, the law, in his opinion, will economically depress businesses too much. Stauros also argues that the law was created too quickly, which did not allow for ample time to craft deliberate, careful legislation.
 
 Stauros is a privacy blogger who is well versed in data privacy issues. That being said, he commends the effort in Proposition 24, but thinks it is too flawed to be effective. An interesting concern he discussed are the "Pay for Privacy" schemes the law allows. Consumers wwho decide not to provide their personal information could be charged by the company for doing so because the law does not prohibit this. Since the companies will be taking a loss, there is no guarantee they wil shift that loss to the consumer. Ultimately, Stauros does not provide 20 complaints in the way that the article above provided 20 benefits, but it is still a compelling argument.
-```
+
 
 
 
