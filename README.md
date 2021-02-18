@@ -1,5 +1,6 @@
 # Contemporary Issues In Data: California Proposition 24
 In this document, I analyze two conflicting articles exploring whether or not California's New Data Legislation Proposition 24 is beneficial for consumers. Proposition 24 was passed in November 2020, but there was controversy about the Proposition  leading up to the vote.
+
 ## Article 1
 In Californian's For Consumer Privacy's [How Prop 24 Adds Even More Privacy Rights Compared to the CCPA](https://www.caprivacy.org/how-prop-24-adds-even-more-privacy-rights-compared-to-the-ccpa/), the benefits of Proposition 24 are discussed. Twenty key benefits are explored in an effort to advocate for Proposition 24. The article states that Proposition 24 will allow consumers to see all personal data whereas the current law only lets you see the personal data that a business has on you going back one year. Further, the Proposition will create a Data Protection Agency that is two times larger than the previous enforcement by the California Attorney General. The legislation will also triple fines for violations related to children's information, which has been a key issue in the past.
 
